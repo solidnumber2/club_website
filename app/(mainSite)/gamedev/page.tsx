@@ -114,7 +114,7 @@ const Gamedev = () => {
                     }}
                 >
                     <styled.p textAlign="center" {...textSettings}>
-                        Go from player to creator in are game development
+                        Go from player to creator in our game development
                         workshops, where we introduce you to the wonderful world
                         of your mind! Journey through the deepest pits of the
                         abyss, smuggle potatoes, become a lvl 100 Mafia{" "}
